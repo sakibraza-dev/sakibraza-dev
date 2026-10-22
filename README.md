@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:09090B,40:312E81,75:4F46E5,100:22D3EE&text=SAKIB%20RAZA&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20REPEAT&descSize=17&descAlignY=60" width="100%" alt="Sakib Raza banner" />
 
@@ -145,4 +145,4 @@ Have an idea, a useful resource, or a project to collaborate on? Let's connect.
 
 <sub>Designed with curiosity · Built with code · Improved one commit at a time</sub>
 
-</div>
+</div> -->
